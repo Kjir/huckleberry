@@ -40,7 +40,9 @@ body {
 
 html,
 body {
-    font-size: 18px;
+    /* To have a "pixel-perfect" experience, uncomment the following. For
+       accessibility, leave commented in "production" */
+    /* font-size: 18px; */
 }
 
 header {
